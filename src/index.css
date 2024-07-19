@@ -1,0 +1,60 @@
+
+body {
+  margin: 0;
+  
+}
+
+.container {
+  margin: 1rem;
+}
+
+
+.content {
+  background-color: #00008B;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  height : 100%;
+}
+
+
+
+.x {
+  opacity: 0;
+  filter: blur(5px);
+  transition: all 1s;
+  transform: translate(-100%);
+}
+.show {
+  opacity: 1;
+  filter: blur(0);
+  transform: translate(0);
+}
+
+.y:nth-child(2){
+  transition-delay: 200ms;
+}
+.y:nth-child(4){
+  transition-delay: 200ms;
+}
+
+.placement{
+  margin-left: auto;
+  margin-right: 5%;
+}
+.pos{
+  z-index: 99999999999;
+}
+
+.card-margin{
+  margin : 2%;
+}
+
+
+
+
+btn-container{
+  display : flex;
+}
+
+

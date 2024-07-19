@@ -1,0 +1,8 @@
+
+  .stepper{
+    display: flex;
+    position : fixed;
+    flex-direction: row;
+    align-items: center;
+  }
+  

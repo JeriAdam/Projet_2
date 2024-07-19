@@ -1,0 +1,20 @@
+{
+    "cartProducts":[
+      {
+        "img" : "https://previews.123rf.com/images/jackf/jackf1603/jackf160300615/53497169-motor-boat-isolated-over-white-background.jpg",
+        "title": "Aggressor fishing boat",
+        "reviews": "(123 reviews)",
+        "prevPrice": "$140,00",
+        "newPrice": "200",
+        "priceCategory" : "2",
+        "company": "Aggressor",
+        "color": "white",
+        "category": "yacht",
+        "description": "The Aggressor fishing boat is designed for avid fishermen, offering stability and ample storage.",
+        "power": "250 hp",
+        "weight": "3,500 lbs",
+        "size": "22 ft L x 8 ft W x 7 ft H"
+            
+      }
+    ]
+  }
